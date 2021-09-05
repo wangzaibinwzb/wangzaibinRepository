@@ -1,2 +1,1 @@
 print("wangzaibin")
-asdf
